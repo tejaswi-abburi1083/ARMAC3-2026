@@ -1,4 +1,4 @@
-# ARMA-C$^3$: Contrastive Graph Representation Learning for Biomedical Imaging
+# ARMA-C3: Contrastive Graph Representation Learning for Biomedical Imaging
 
 Official implementation of **ARMA-C$^3$**, a graph-based framework for unsupervised clustering and semi-supervised classification on multimodal biomedical datasets.
 
